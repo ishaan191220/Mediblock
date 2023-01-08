@@ -14,7 +14,7 @@ MediBlock is an online portal that maintains a digital copy of a patient’s med
   
   4. Block Explorer - https://explorer-liberty20.shardeum.org/account/0x1c92da319f424657115d4462e21b67f0ac1335e3
  
-  5.  Link to youtube video - https://www.youtube.com/watch?v=6cCxWX1Dalw 
+  5. Link to youtube video - https://www.youtube.com/watch?v=_N0d_FSBlb8 
 
 ## Installation
 The projects requires NodeJS and npm to work. Instructions to install all other dependencies are given below.
