@@ -9,8 +9,7 @@ MediBlock is an online portal that maintains a digital copy of a patient’s med
 
   2. Spheron - https://urhackathonmediblock-02f646.spheron.app/
   
-  3. Replit - https://urhackthon-polygon-1.praveenbhandar1.repl.co
-              https://replit.com/@PraveenBhandar1/urhackthon-polygon-1     
+  3. Replit - https://velocity7-1.praveenbhandar1.repl.co/    
   
   4. Block Explorer - https://explorer-liberty20.shardeum.org/account/0x1c92da319f424657115d4462e21b67f0ac1335e3
  
